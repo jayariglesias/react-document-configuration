@@ -7,7 +7,7 @@ This will help you to manage your page title and icon.
 Using npm:
 
 ```bash
-$ npm install react-document-configuration
+$ npm install react-document-configuration --save
 ```
 
 ## Example
