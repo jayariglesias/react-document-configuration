@@ -28,7 +28,7 @@ export default function Application() {
 ```
 ## Browser Support
 
-![Chrome]https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/chrome.png) | ![Firefox]https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/firefox.png) | ![Safari]https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/safari.png) | ![Opera]https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/opera.png) | ![Edge]https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/chromium.png) | ![IE]https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/explorer.png) |
+![Chrome](https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/chrome.png) | ![Firefox](https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/firefox.png) | ![Safari](https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/safari.png) | ![Opera](https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/opera.png) | ![Edge](https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/chromium.png) | ![IE](https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/explorer.png) |
 --- | --- | --- | --- | --- | --- |
 Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | 11 ✔ |
 
@@ -36,4 +36,4 @@ Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | 11 ✔ |
 
 MIT
 
-<img align="left" height="200" src="https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/name.png" />
+<img align="left" height="200" src="(https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/name.png" />
