@@ -1,4 +1,4 @@
-# React Document Configuration Beta v0.1
+## React Document Configuration Beta v0.1
 
 This will help you to manage your page title and icon.
 
