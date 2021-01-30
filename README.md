@@ -18,7 +18,7 @@ import Head from "react-document-configuration";
 export default function Application() {
     return (
         <div>
-            <Head title="HOME" icon="link_of_icon" >
+            <Head title="HOME" icon="link_of_icon" />
             <div>
                 <h4>Hello Developers!</h4>
             </div>
@@ -33,7 +33,5 @@ export default function Application() {
 Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | 11 ✔ |
 
 ## License
-
-MIT
 
 <img align="left" height="100" width="100" src="https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/name.png" />
