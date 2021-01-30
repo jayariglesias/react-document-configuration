@@ -2,6 +2,14 @@
 
 This will help you to manage your page title and icon.
 
+## Installation
+
+Using npm:
+
+```bash
+$ npm install react-document-configuration
+```
+
 ## Example
 ```javascript
 import React from "react";
@@ -18,6 +26,11 @@ export default function Application() {
     );
 };
 ```
+## Browser Support
+
+![Chrome]https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/chrome.png) | ![Firefox]https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/firefox.png) | ![Safari]https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/safari.png) | ![Opera]https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/opera.png) | ![Edge]https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/chromium.png) | ![IE]https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/explorer.png) |
+--- | --- | --- | --- | --- | --- |
+Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | 11 ✔ |
 
 ## License
 
