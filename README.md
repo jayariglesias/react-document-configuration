@@ -35,13 +35,14 @@ export default function Application() {
 --- | --- | --- | --- | --- | --- |
 Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | 11 ✔ |
 
+## Contributing
 
+<a href="https://github.com/jayariglesias/react-document-configuration.git"><strong>GITHUB</strong></a>
 
 ## License
 
 <img height="100" width="100" src="https://raw.githubusercontent.com/jayariglesias/jayariglesias/main/name.png" />
 
-##
 
 
 
