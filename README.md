@@ -1,6 +1,6 @@
 ## React Document Configuration Beta v0.1
 
-This will help you to manage your page title and icon.
+This will help you to manage your page title and icon on each page.
 
 
 ## Installation
